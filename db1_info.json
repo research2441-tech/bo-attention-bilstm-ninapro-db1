@@ -1,0 +1,137 @@
+{
+ "1": {
+  "windows": 24168,
+  "classes": 53,
+  "rest": 6999
+ },
+ "2": {
+  "windows": 24739,
+  "classes": 53,
+  "rest": 6843
+ },
+ "3": {
+  "windows": 24468,
+  "classes": 53,
+  "rest": 6780
+ },
+ "4": {
+  "windows": 26004,
+  "classes": 53,
+  "rest": 5867
+ },
+ "5": {
+  "windows": 26526,
+  "classes": 53,
+  "rest": 5751
+ },
+ "6": {
+  "windows": 25745,
+  "classes": 53,
+  "rest": 5868
+ },
+ "7": {
+  "windows": 25029,
+  "classes": 53,
+  "rest": 6510
+ },
+ "8": {
+  "windows": 23918,
+  "classes": 53,
+  "rest": 6356
+ },
+ "9": {
+  "windows": 24673,
+  "classes": 53,
+  "rest": 6497
+ },
+ "10": {
+  "windows": 25112,
+  "classes": 53,
+  "rest": 6232
+ },
+ "11": {
+  "windows": 26006,
+  "classes": 53,
+  "rest": 6403
+ },
+ "12": {
+  "windows": 24955,
+  "classes": 53,
+  "rest": 6369
+ },
+ "13": {
+  "windows": 22954,
+  "classes": 53,
+  "rest": 6910
+ },
+ "14": {
+  "windows": 25945,
+  "classes": 53,
+  "rest": 6080
+ },
+ "15": {
+  "windows": 25291,
+  "classes": 53,
+  "rest": 6848
+ },
+ "16": {
+  "windows": 22818,
+  "classes": 53,
+  "rest": 6958
+ },
+ "17": {
+  "windows": 24558,
+  "classes": 53,
+  "rest": 6951
+ },
+ "18": {
+  "windows": 25390,
+  "classes": 53,
+  "rest": 6397
+ },
+ "19": {
+  "windows": 25583,
+  "classes": 53,
+  "rest": 6386
+ },
+ "20": {
+  "windows": 24407,
+  "classes": 53,
+  "rest": 6868
+ },
+ "21": {
+  "windows": 25077,
+  "classes": 53,
+  "rest": 6796
+ },
+ "22": {
+  "windows": 25796,
+  "classes": 53,
+  "rest": 6347
+ },
+ "23": {
+  "windows": 25922,
+  "classes": 53,
+  "rest": 6259
+ },
+ "24": {
+  "windows": 24445,
+  "classes": 53,
+  "rest": 6847
+ },
+ "25": {
+  "windows": 25689,
+  "classes": 53,
+  "rest": 6440
+ },
+ "26": {
+  "windows": 23603,
+  "classes": 53,
+  "rest": 6935
+ },
+ "27": {
+  "windows": 26435,
+  "classes": 53,
+  "rest": 6069
+ }
+}
